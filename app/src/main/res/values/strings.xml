@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Login Socmed</string>
+    <string name="facebook_app_id">247373372854422</string>
+    <string name="fb_login_protocol_scheme">fb247373372854422</string>
+
+
 </resources>
